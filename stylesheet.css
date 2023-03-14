@@ -1,0 +1,21 @@
+.root {
+    background-color: green;
+}
+
+.title {
+    color: red;
+}
+
+#aboutMe {
+    color: white
+}
+
+a:hover {
+    background-color: orange;
+}
+
+.sectionDiv {
+    flex-wrap: wrap-reverse;
+    flex-direction: row;
+    flex-direction: column;
+}
