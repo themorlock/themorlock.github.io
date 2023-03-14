@@ -1,5 +1,9 @@
 .root {
     background-color: green;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
 }
 
 .title {
@@ -7,7 +11,9 @@
 }
 
 #aboutMe {
-    color: white
+    color: white;
+    display: flex;
+    flex-direction: row;
 }
 
 a:hover {
